@@ -1,6 +1,6 @@
 ### Hey, I'm Tim
 
-I am a Software Developer moving in to focusing on Data Science and Data Analysis
+I am a Software Engineer focusing on Cyber Security and Data Analysis.
 
 
 <!--
